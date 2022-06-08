@@ -1,0 +1,41 @@
+Benefícios do GIT:
+1-controle de versão
+2-armazenamento em nuvem
+3-trabalho em equipe
+4-melhorar seu código
+5-reconhecimento
+
+CLI comandos:
+Função			Windows			Unix
+Listar pastas		dir			ls
+Acessar uma pasta	cd			cd
+Acessar raiz		cd /			cd /
+Retroceder um nivel	cd ..			cd ..
+limpar tela		cls			clear (ou ctrl + l)
+Autocompletar           tab letra		tab letras
+criar pasta		mkdir xxx		mkdir xxx
+criar arquivo		echo hello > hello.txt  (mesma sintaxe para Unix)
+apagar arquivo		del xxx
+remover pasta inteira	rmdir pasta /S /Q	rm -rf pasta/ (r=recursive, f=force)
+mover arquivo		mv strogonoff.md ./receitas/
+
+Instalação GIT
+Site oficial: https://git-scm.com/
+
+Encriptação do GIT: SHA1
+
+Tipos de objetos do GIT responsáveis pelo versionamento:
+BLOBS 
+TREES
+COMMITS
+
+Chave SSH: necessário para reconhecer a nossa máquina no github.
+
+Comandos Git:
+Ver as configurações armazenadas: git config --list
+Clonar repositório: Git clone + url repositório
+Ver status do projeto: Git status 
+Adicionar alterações: Git add. ou git add *
+Comitar alterações: git commit -m "Texto explicativo"
+Enviar alterações para o repositório do Github: git pull origin master
+
