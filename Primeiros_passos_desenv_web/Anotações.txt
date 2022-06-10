@@ -1,0 +1,25 @@
+Portas:
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: HTTPS
+
+O gmail usa as portas 25, 465 ou 587 (SMTP TSL)
+Apache usa a porta 80 ou 443
+Mysql usa a porta 3306 por padrão.
+Oracle usa a 1521.
+SQL server usa as portas TCP 1433, 4022, 135, 1434, UDP 1434.
+
+Modem: Hardware que converte dados de um formato que possa ser transmitido de um computador para outro e lido por outro.
+Roteadores:distribui a intenet para um ou mais dispositivos de uma rede.
+Pode fazer a comunicaçao entre redes.
+Podfe ser "burro" (carro do ovo)
+Switches: distribui a internet para um ou mais dispositivos de uma rede
+Criado para ser "inteligente" (entrega dados só para quem requisitou)
+
+Segurança:
+WEP: chaves de 64 bits e de 128 bits
+WPA: chave trocada periodicamente
+WPA2(AES) (802.11i): + segurança, + processamento
