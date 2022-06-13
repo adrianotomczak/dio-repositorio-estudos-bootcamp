@@ -1,0 +1,5 @@
+Áreas do Box model:
+margin
+border
+padding
+content
